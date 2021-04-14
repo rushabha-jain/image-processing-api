@@ -5,7 +5,8 @@
 - `npm run test` (To test the application)
 - `npm start` (To start the application)
 
-> Provider API
+> Provided API
+
 End-point: `GET /api/images?filename={filename}&width={width}&height={height}`
 Response:
 
