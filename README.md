@@ -8,8 +8,8 @@
 > Provided API
 
 End-point: `GET /api/images?filename={filename}&width={width}&height={height}`
-Response:
 
+Response:
 - Resized Image (200 status code)
 - Invalid file name (404 Not Found)
 - Invalid query params(401 Bad Request)
